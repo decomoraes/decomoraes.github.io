@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/decomoraes.github.io/static/css/main.5f361e03.chunk.css",
+    "main.js": "/decomoraes.github.io/static/js/main.5551d1f1.chunk.js",
+    "main.js.map": "/decomoraes.github.io/static/js/main.5551d1f1.chunk.js.map",
+    "runtime-main.js": "/decomoraes.github.io/static/js/runtime-main.4df8a70a.js",
+    "runtime-main.js.map": "/decomoraes.github.io/static/js/runtime-main.4df8a70a.js.map",
+    "static/js/2.21d07ca0.chunk.js": "/decomoraes.github.io/static/js/2.21d07ca0.chunk.js",
+    "static/js/2.21d07ca0.chunk.js.map": "/decomoraes.github.io/static/js/2.21d07ca0.chunk.js.map",
+    "index.html": "/decomoraes.github.io/index.html",
+    "precache-manifest.133c0a9efa5c559629534a0bff69273f.js": "/decomoraes.github.io/precache-manifest.133c0a9efa5c559629534a0bff69273f.js",
+    "service-worker.js": "/decomoraes.github.io/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/decomoraes.github.io/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.21d07ca0.chunk.js.LICENSE.txt": "/decomoraes.github.io/static/js/2.21d07ca0.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/decomoraes.github.io/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4df8a70a.js",
+    "static/js/2.21d07ca0.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.5551d1f1.chunk.js"
+  ]
+}
